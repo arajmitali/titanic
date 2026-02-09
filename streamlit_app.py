@@ -321,3 +321,4 @@ else:
     st.subheader("Please upload the `train.csv` and `test.csv` files in the sidebar to begin.")
     st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg", 
              caption="RMS Titanic departing from Southampton on April 10, 1912.")
+
